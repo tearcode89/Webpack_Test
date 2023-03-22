@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+modules.xml
+workspace.xml
+Webpack Test.iml
+vcs.xml
+/node_modules
+# Project exclude paths
+/dist/
+.idea
